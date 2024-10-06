@@ -1,5 +1,5 @@
 # FortranCode
-Fortran codes for string, the negative binomial distribution, and approximations for sine and cosine. Create executables with
+Fortran codes for strings, random number generation from various distributions, the negative binomial distribution, and approximations for sine and cosine. Create executables with
 
 ```
 gfortran -o xstring_funcs.exe string_funcs.f90 xstring_funcs.f90
