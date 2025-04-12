@@ -17,4 +17,4 @@ The program `min_max.f90` from a [discussion at Fortran Discourse](https://fortr
   0.1406       minval(x),maxval(x),sum(x)/n
   0.0469                    min_max_mean(x)
 ```
-so it was faster to compute min and max in a single loop with your own function than to call the minvl and maxval intrinsics.
+so it was faster to compute min and max in a single loop with your own function than to call the minval and maxval intrinsics.
